@@ -11,5 +11,11 @@
     <summary lang="en">Vanilla GUI Wizard</summary>
     <description lang="en">In this wizard you will find the latest Vanilla GUI Wizard and Tools. Thanks whufclee at NaN, GUYS at TI, Brackets for the app installer!! RomanVM for the PyXBMCt libs. Fire TV Guru for the PyXBMCt layout  Also a very special Thanks to Surfacingx for the base code used in this add-on.</description>
     <platform>all</platform>
+    <assets>
+
+			<icon>icon.png</icon>
+
+			<fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
